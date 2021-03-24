@@ -69,3 +69,4 @@ So, basically, the item layout will contain your own layout/view or whatever you
 
 ![](https://user-images.githubusercontent.com/48766032/111488261-6ed3c980-877c-11eb-93b2-b12aae913e7f.gif)
 
+![](https://user-images.githubusercontent.com/48766032/112371067-88978280-8d21-11eb-80e3-7b49153da2b2.gif)
